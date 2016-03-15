@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>jardineria</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="./stylesheets/app.css">
+</head>
+
+<body>
+  <div class="row align-center cabezera">
+      <ul class="menu">
+        <li><a href="index2.html">Quienes somos</a></li>
+        <li><a href="index.html"><img class="animated" src="img/logo.png" alt=""/></a></li>
+        <li><a href="index3.html">Formulario</a></li>
+      </ul>
+  </div>
+  <div class="row align-center fondo">
+    <img  src="img/T.png" alt="" />
+  </div>
+  <div class="row align-center ramos">
+    <h4>Ramos de Flores</h4>
+  </div>
+  <div class="row align-center text-center">
+    <div class="small-3 columns">
+      <img src="img/gerberas.png" class="thumbnail" alt="">
+      <h5>Ramo de rosas Gerberas y longuiflorum </h5>
+    <p>
+      Ramo variado compuesto por gerberas, rosas, longuiflorum y rosas blancas que resaltan sus tonos suaves y delicados. Un ramo muy dulce perfecto para una ocasión especial.
+    </p>
+    <button type="button" class="button boton-rosa"><i class="fa fa-shopping-cart"></i> 50 €</button>
+  </div>
+  <div class="small-3 columns">
+    <img src="img/lillum.png" class="thumbnail" alt="">
+    <h5>Ramo de rosas naranjas y lilium amarillo</h5>
+    <p>
+      Ramo variado compuesto por rosas naranjas y liliums amarillos envueltos de verdes varios que resaltan sus tonos cálidos. Un ramo perfecto para una ocasión especial.
+    </p>
+    <button type="button" class="button boton-rosa"><i class="fa fa-shopping-cart"></i> 50 €</button>
+  </div>
+  <div class="small-3 columns">
+    <img src="img/ramo-rojo.png" class="thumbnail" alt="">
+    <h5>Ramo de rosas rojas y longuiflorum</h5>
+    <p>
+      Ramo variado compuesto por rosas rojas y longuiflorum envueltos de verdes varios que resaltan sus tonos cálidos y suaves. Un ramo perfecto para una ocasión especial.
+    </p>
+    <button type="button" class="button boton-rosa"><i class="fa fa-shopping-cart"></i> 50 €</button>
+    </div>
+</div>
+  <div class="row align-center align-middle Flores-Silvestres">
+    <h4>Flores Silvestres</h4>
+  </div>
+  <div class="row align-center text-center">
+      <div class="small-3 columns">
+        <img src="img/campanilla-azules.png" class="thumbnail" alt="">
+        <h5>Campanillas Azules</h5>
+        <p>
+          Esta es una de las más coloridas y hermosas flores silvestres, debido a sus tonos azulados, purpuras y morados; es muy frágil y requiere desarrollarse en rocas y lugares frios.
+        </p>
+        <button type="button" class="button boton-rosa"><i class="fa fa-shopping-cart"></i> 50 €</button>
+      </div>
+      <div class="small-3 columns">
+        <img src="img/anemona.png" class="thumbnail" alt="">
+        <h5>Anémona</h5>
+        <p>
+          Anemone ranunculoides, estas flores silvestres se dan en el invierno y se puede encontrar en varios tonos, rojas, azules, moradas y hasta amarillas.
+        </p>
+        <button type="button" class="button boton-rosa"><i class="fa fa-shopping-cart"></i> 50 €</button>
+      </div>
+      <div class="small-3 columns">
+        <img src="img/gerbera.png" class="thumbnail" alt="">
+        <h5>Gerbera</h5>
+        <p>
+          estas flores silvestresson muy populares y usadas como plantas de jardín o flores de corte debido a su resistencia, tamallo y hermosos colores.
+        </p>
+        <button type="button" class="button boton-rosa"><i class="fa fa-shopping-cart"></i> 50 €</button>
+      </div>
+    </div>
+ <div class="row align-justify footer">
+        <div class="small-4 columns">
+            <p>&copy;2016 Floristeria Ana, by Jonnathan Rocha Velarde</p>
+        </div>
+        <div class="column small-4">
+          <p class="footer-color">
+            <i class="fa fa-twitter"></i>
+            <i class="fa fa-instagram"></i>
+            <i class="fa fa-facebook-square"></i>
+          </p>
+        </div>
+
+ </div>
+
+
+  <script src="js/bundle.js"></script>
+</body>
+
+</html>
